@@ -8,6 +8,7 @@
 ## You can create threads in two ways in Java:
 
 • extends Thread class
+
 • implement Runnable interface
 
 For the use of the Thread class, after the Thread class is inherited, the run method is override and the necessary commands are written.
